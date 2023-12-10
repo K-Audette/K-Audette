@@ -30,54 +30,18 @@ I am a highly motivated researcher with a background in neurobiology and statist
 
 ### Laboratory Skills
 
-#### Microscopy Techniques
-
-- **Microscope Operation:**
-  - Proficient in operating advanced microscopes, including a Leica SP5 II Confocal microscope and a 3i Spinning disc Confocal station.
-  - Skill in acquiring high-quality images with different objectives and zoom levels.
-
-#### Data Processing and Analysis
-
-- **Image Processing:**
-  - Competence in image processing using software tools such as ImageJ, Slidebook (3i software), Inkscape, Gimp, and Adobe Illustrator.
-  - Ability to compile and present data effectively.
-
-#### Techniques
-
-- **Polymerase Chain Reaction (PCR)**
-- **Gel Electrophoresis**
-- **Western Blotting**
-
-#### Drosophila Techniques
-
-- **Drosophila Monitor System**
-- **Breed and Maintain Drosophila/Mice**
-- **Drosophila Anatomy/Neuroanatomy**
-- **Drosophila Brain VNC and Proboscis Dissection**
-- **Gal4/UAS System**
-- **Taste/Feeding Assays**
-- **Optogenetics**
-- **Chemogenetics**
-- **Fly Liquid-Food Interaction Counter**
-- **Drosophila Feeding Monitor**
-- **In Vivo Calcium Imaging**
-
-#### Chromatography and Spectroscopy
-
-- **Thin Layer Chromatography (TLC)**
-- **Affinity Column Chromatography**
-- **Infrared Spectroscopy**
-
-#### Animal Handling
-
-- **Anesthetize Animals**
-- **Sheep Neuroanatomy**
+- **Molecular Techniques:** Polymerase Chain Reaction (PCR), Gel Electrophoresis, Western Blotting
+- **Genetics:** Gal4/UAS, RNAi (RNA Interference), LexA/LexAop
+- ***Drosophila* Techniques:** In Vivo Calcium Imaging, Optogenetics, Chemogenetics, Anatomy/Neuroanatomy, Brain dissection Ventral Nerve Cord(VNC) dissection, Proboscis dissection, Taste/Feeding Assays, Fly Liquid-Food Interaction Counter(FLIC), *Drosophila* Feeding Monitor(DFM), *Drosophila* Activity Monitoring System(DAM), Breed and Maintain population. 
+- **Imaging and Microscopy:** Confocal Microscopy--Leica SP5 II Confocal microscope and a 3i Spinning disc Confocal station, Immunohistochemistry, primary and secondary antibody handling, confocal image processing tools 
+- **Chromatography and Spectroscopy:** Thin Layer Chromatography (TLC), Affinity Column Chromatography, Infrared Spectroscopy
+- **Animal Handling:** Anesthetize Animals, Sheep Neuroanatomy
 
 ## How to Reach Me
 
-- LinkedIn: [Your LinkedIn Profile Link]
-- Twitter: [Your Twitter Handle]
-- Email: [Your Email Address]
+- LinkedIn: [add LinkedIn Profile Link]
+- Twitter: [add Twitter Handle]
+- Email: [add Email Address]
 
 ## Contributions and Collaborations
 
