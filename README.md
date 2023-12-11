@@ -40,8 +40,8 @@ I am a highly motivated researcher with a background in neurobiology and statist
 ## How to Reach Me
 
 - LinkedIn: [LinkedIn Profile Link](https://www.linkedin.com/in/kayla-audette-a8494b149?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- Twitter: [@KaylaAudette](@kaylaaudette)
-- Email: [kayla.audette@uvm.edu](kayla.audette@uvm.edu)
+- Twitter: @KaylaAudette
+- Email: kayla.audette@uvm.edu
 
 ## Contributions and Collaborations
 
