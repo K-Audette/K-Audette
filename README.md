@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a highly motivated researcher with a background in neurobiology and statistical data sciences. Currently, I work as a Research Laboratory Technician in Cellular Neuroscience at the University of Vermont. My passion lies in understanding the intricate details of neural circuits and their impact on complex behaviors. This GitHub repository serves as a showcase of my projects and contributions in the fields of neuroscience, data sciences, and programming.
+I am a highly motivated researcher with a background in neurobiology and statistical data sciences. Currently, I work as a Research Laboratory Technician in Cellular Neuroscience at the University of Vermont. My passion lies in understanding the intricate details of neural circuits and their impact on complex behaviors. This GitHub repository serves as a showcase of my projects and contributions in the fields of neuroscience, data sciences, and programming. *-I am still adding stuff to it* 
 
 ## Projects
 
@@ -39,17 +39,13 @@ I am a highly motivated researcher with a background in neurobiology and statist
 
 ## How to Reach Me
 
-- LinkedIn: [add LinkedIn Profile Link]
-- Twitter: [add Twitter Handle]
-- Email: [add Email Address]
+- LinkedIn: [LinkedIn Profile Link](https://www.linkedin.com/in/kayla-audette-a8494b149?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- Twitter: [@KaylaAudette](@kaylaaudette)
+- Email: [kayla.audette@uvm.edu](kayla.audette@uvm.edu)
 
 ## Contributions and Collaborations
 
 If you'd like to contribute to any of my projects or collaborate, feel free to open an issue or submit a pull request. I welcome any suggestions, improvements, or collaboration opportunities.
-
-## License
-
-This repository is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
